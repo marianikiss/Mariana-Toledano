@@ -1,2 +1,1 @@
-# Mariana-Toledano
-Consultoría para todos
+Propósito del Proyecto Consultoría para todos es una plataforma móvil (iOS y Android) diseñada para simplificar la formalización legal, fiscal y corporativa de emprendedores y PyMEs en México mediante un ecosistema digital de trámites, asesorías en vivo y recursos legales.
